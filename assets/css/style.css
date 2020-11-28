@@ -778,3 +778,20 @@ a:hover {
   /* background-color: tomato; */
   background-color: #E1F5FE;
 }
+
+#skills-set{
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  background-color: snow;
+  /* border: 2px solid orangered; */
+  padding: 5px;
+  border-radius: 10%;
+}
+
+#skills-set:hover{
+  background-color: #cde1f8;
+  cursor: pointer;
+}
+
+.spaceSetter{
+  margin: 10px;
+}
